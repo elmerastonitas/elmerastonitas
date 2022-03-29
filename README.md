@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://elmerastonitas.com/blog](https://elmerastonitas.com/blog)
 
-- 📫 How to reach me **elmer.astonitas@astcode.com**
+- 📫 How to reach me **elmerastonitas@gmail.com**
 
 - 📄 Know about my experiences [https://elmerastonitas.com/portafolio](https://elmerastonitas.com/portafolio)
 
