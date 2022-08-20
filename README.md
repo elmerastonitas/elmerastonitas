@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmerastonitas" alt="elmerastonitas" /></a> </p>
 
-- 🔭 I’m currently working on [the Astcode website.](https://astcode.com)
-
-- 🌱 I’m currently learning **React Native, Python and taking Cybersecurity courses.**
+- 🔭 I’m currently learning **React Native, Python and taking Cybersecurity courses.**
 
 - 👨‍💻 All of my projects are available at [https://elmerastonitas.com](https://elmerastonitas.com)
 
-- 📝 I regularly write articles on [https://elmerastonitas.com/blog](https://elmerastonitas.com/blog)
+- 📝 I regularly write articles on [https://elmerastonitas.com](https://elmerastonitas.com)
 
-- 📫 How to reach me **elmerastonitas@gmail.com**
+- 📫 How to reach me **info@elmerastonitas.com**
 
-- 📄 Know about my experiences [https://elmerastonitas.com/portafolio](https://elmerastonitas.com/portafolio)
+- 📄 Know about my experiences [https://elmerastonitas.com](https://elmerastonitas.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
