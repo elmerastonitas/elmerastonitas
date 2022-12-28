@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmerastonitas" alt="elmerastonitas" /></a> </p>
 
-- 🔭 I’m currently learning **React Native, Python and taking Cybersecurity courses.**
+- 🔭 I am currently studying **Front-end Web Development** at Oracle Next Education
 
 - 👨‍💻 All of my projects are available at [https://elmerastonitas.com](https://elmerastonitas.com)
 
