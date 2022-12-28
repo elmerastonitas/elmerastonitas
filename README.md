@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmerastonitas" alt="elmerastonitas" /></a> </p>
 
-- 🔭 I am currently studying **Front-end Web Development** at Oracle Next Education
+🔭 I am currently studying **Front-end Web Development** at Oracle Next Education
 
-- 👨‍💻 All of my projects are available at [https://elmerastonitas.com/portafolio](https://elmerastonitas.com/portafolio)
+👨‍💻 All of my projects are available at [https://elmerastonitas.com/portafolio](https://elmerastonitas.com/portafolio)
 
-- 📝 I regularly write articles on [https://elmerastonitas.com](https://elmerastonitas.com/blog)
+📝 I regularly write articles on [https://elmerastonitas.com](https://elmerastonitas.com/blog)
 
-- 📫 How to reach me **info@elmerastonitas.com**
+📫 How to reach me **info@elmerastonitas.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
