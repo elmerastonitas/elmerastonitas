@@ -5,13 +5,11 @@
 
 - 🔭 I am currently studying **Front-end Web Development** at Oracle Next Education
 
-- 👨‍💻 All of my projects are available at [https://elmerastonitas.com](https://elmerastonitas.com)
+- 👨‍💻 All of my projects are available at [https://elmerastonitas.com/portafolio](https://elmerastonitas.com/portafolio)
 
-- 📝 I regularly write articles on [https://elmerastonitas.com](https://elmerastonitas.com)
+- 📝 I regularly write articles on [https://elmerastonitas.com](https://elmerastonitas.com/blog)
 
 - 📫 How to reach me **info@elmerastonitas.com**
-
-- 📄 Know about my experiences [https://elmerastonitas.com](https://elmerastonitas.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
