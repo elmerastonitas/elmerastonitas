@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I am a Systems Engineer.<br>
-👨‍💻 All of my projects are available at https://elmerastonitas.com/portafolio<br>
+🧑‍💻 I am a Systems Engineer.<br>
+💼 All of my projects are available at https://elmerastonitas.com/portafolio<br>
 📝 I regularly write articles on https://elmerastonitas.com/blog<br>
 📧 How to reach me info@elmerastonitas.com
 
